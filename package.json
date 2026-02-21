@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-nano-fast-monitor-api-znb",
+  "version": "1.0.0",
+  "description": "Distributed system for high-performance processing",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "nano-fast-monitor-api-znb"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-nano-fast-monitor-api-znb.git"
+  }
+}
